@@ -27,7 +27,7 @@ class UserController extends Controller
     }
 
     /**
-     * Returns user search result
+     * Returns user match result
      *
      * @param Request $request
      * @return \Illuminate\Http\JsonResponse
